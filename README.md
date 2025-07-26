@@ -1,6 +1,8 @@
 # Bengali RAG System
 
 A production-level Retrieval Augmented Generation (RAG) system that handles both English and Bengali queries. The system uses a PDF document corpus as its knowledge base and maintains both short-term and long-term memory for better context handling.
+ 
+[bb01fbfe-4440-4daf-b720-616b9ab3f790.webm](https://github.com/user-attachments/assets/af03dd3b-9d1c-4b3f-82a4-dea0f6b74f67)
 
 ## Features
 
